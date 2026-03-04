@@ -72,9 +72,18 @@ Sprinkle them in. "You know what I mean?" "How hard can it be?" "Why would anyon
 
 "It took about three hours - actually, more like four." Shows thinking in real time.
 
-### Remove all em-dashes
+### NEVER use em dashes (this is non-negotiable)
 
+Em dashes (—) are the single strongest AI writing signal. Do not use them. Not once. Not "sparingly." Never.
 
+Replace every em dash with a comma, period, colon, or rewrite the sentence:
+
+- "She loved it — and so did he." → "She loved it, and so did he."
+- "The fix was simple — restart the server." → "The fix was simple: restart the server."
+- "I tried it — it worked." → "I tried it. It worked."
+- "He was tired — exhausted, actually." → "He was tired. Exhausted, actually."
+
+Before delivering any output, do a full em dash check. If you find even one, rewrite that sentence. Zero tolerance.
 
 ### Opinions
 
