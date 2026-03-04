@@ -72,6 +72,10 @@ Sprinkle them in. "You know what I mean?" "How hard can it be?" "Why would anyon
 
 "It took about three hours - actually, more like four." Shows thinking in real time.
 
+### Remove all em-dashes
+
+
+
 ### Opinions
 
 State them as opinions: "I think," "probably," "from what I've seen," "in my experience." AI hedges with weasel words ("it is generally considered"). Humans just say what they think.
