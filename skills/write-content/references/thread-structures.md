@@ -2,7 +2,7 @@
 
 ## Optimal length
 
-5-10 tweets is the sweet spot. 7 is ideal. Under 5, it's better as a single tweet. Over 15, you'll see significant drop-off in completion rate.
+5–10 tweets is the sweet spot. 7 is ideal. Under 5, it's better as a single tweet. Over 15, you'll see significant drop-off in completion rate.
 
 ## Architecture template
 
@@ -10,7 +10,7 @@
 1. BIG BOLD HOOK — stop the scroll
 2. Set the stage / context
 3. Raise stakes / twist the knife
-4-9. Unfold insights — one idea per tweet
+4–9. Unfold insights — one idea per tweet
 10. Punchy lesson / key takeaway
 11. Soft CTA — question or reflection
 12. Final CTA — follow, RT, or link
@@ -28,7 +28,7 @@ Three-part structure:
 ### 8 hook types
 
 | Type | Formula | Example |
-|------|---------|---------|
+|------|---------|---------:|
 | Curiosity gap | Reveal beginning and end, omit middle | "When Iron Man came out, RDJ was paid $500K. He's since earned $450M+. Here's how:" |
 | Contrarian | Challenge widely-held belief | "College completely failed in teaching me how to write." |
 | Number/stat | Lead with surprising data point | "99% of business books are 1 idea stretched across 300 pages." |
@@ -40,8 +40,9 @@ Three-part structure:
 
 ## Cliffhanger techniques
 
-End tweets with open loops every 1-2 tweets:
-- "But that's not all..."
+End every 1–2 tweets with an open loop to keep people reading:
+
+- "But that's not all…"
 - "Here's where it gets interesting:"
 - "And then everything changed."
 - "This next part surprised me."
@@ -49,9 +50,9 @@ End tweets with open loops every 1-2 tweets:
 
 ## Visual breaks
 
-Add a visual element (screenshot, code snippet, diagram, chart, or even an emoji divider) every 3-4 tweets. This increases thread completion rate by roughly 45%.
+Add a visual element (screenshot, code snippet, diagram, chart, or even an emoji divider) every 3–4 tweets. **This increases thread completion rate by roughly 45%.**
 
-## Thread enders
+## Thread enders (choose one)
 
 **Summary + Ask:** "TL;DR: [3 bullets]. Which resonates most?"
 
@@ -59,7 +60,7 @@ Add a visual element (screenshot, code snippet, diagram, chart, or even an emoji
 
 **Bridge to resource:** "I packed this into a free [PDF/guide]. Link in bio."
 
-**Engagement loop:** "What would you add? Drop below."
+**Engagement loop:** "What would you add? Drop below 👇"
 
 ## Rules for every tweet in the thread
 

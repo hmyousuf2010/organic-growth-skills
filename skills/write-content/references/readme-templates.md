@@ -2,6 +2,24 @@
 
 ## Project README structure
 
+Full section order for a complete project README:
+
+1. Project logo and title
+2. Badges
+3. Demo/Screenshots
+4. Table of contents (for longer READMEs)
+5. About the project (what, why, how + "Built With")
+6. Features
+7. Getting started / Installation
+8. Usage
+9. Configuration
+10. API reference
+11. Roadmap
+12. Contributing
+13. License
+14. Contact/Support
+15. Acknowledgments
+
 ### Header section
 
 Center-aligned logo/banner + title + tagline:
@@ -16,7 +34,7 @@ Center-aligned logo/banner + title + tagline:
 
 ### Badges
 
-4-6 max, one row, immediately below title:
+4–6 max, one row, immediately below title:
 
 ```markdown
 ![Build](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml?branch=main)
@@ -33,7 +51,9 @@ With logo: `https://img.shields.io/badge/<TEXT>-<HEX>?style=for-the-badge&logo=<
 
 Styles: flat (default), flat-square, plastic, social, for-the-badge
 
-Colors: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey
+Colors: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, success, important, critical, informational, inactive — or any hex code without the #.
+
+Logo names come from simpleicons.org.
 
 #### Common tech badges
 
@@ -48,15 +68,13 @@ Colors: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ```
 
-#### Social badges
+#### Social badges (clickable)
 
 ```markdown
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
 ```
-
-Logo names come from simpleicons.org.
 
 ### Quick Start section
 
@@ -109,6 +127,35 @@ Checkbox format:
 
 ## Profile README
 
+Create a public repository with the same name as your GitHub username. Add a README.md.
+
+### Full recommended structure
+
+```markdown
+# Hi there, I'm [Name] 👋
+
+## About Me
+- 🔭 Currently working on ...
+- 🌱 Currently learning ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+## 🛠️ Tech Stack
+[badges]
+
+## 📊 GitHub Stats
+[widgets]
+
+## 🔥 Streak Stats
+[widgets]
+
+## 🏆 Trophies
+[widgets]
+
+## 🤝 Connect with me
+[social badges]
+```
+
 ### GitHub stats widgets
 
 Stats card:
@@ -141,28 +188,7 @@ Typing SVG:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 ```
 
-Available themes: default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
-### Profile README template
-
-```markdown
-# Hi, I'm [Name]
-
-## About me
-- Building [current project]
-- Exploring [current interest]
-- Ask me about [expertise area]
-- Reach me at [contact]
-
-## Tech stack
-[badges here]
-
-## Stats
-[widgets here]
-
-## Connect
-[social badges here]
-```
+**Available themes for all cards:** default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 ---
 

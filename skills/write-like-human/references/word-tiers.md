@@ -4,7 +4,7 @@ Words organized by detection risk. Based on GPTZero's 3.3M-document corpus analy
 
 ## Tier 1 — Never use
 
-These words appear 10x-269x more frequently in AI text than human text. Using any is a strong AI signal.
+These words appear 10x–269x more frequently in AI text than human text. Using any is a strong AI signal.
 
 ### Nouns
 tapestry, landscape (metaphorical), realm, kaleidoscope, interplay, testament, beacon, symphony, roadmap, cornerstone, facet, paradigm, catalyst, milestone, intricacies, linchpin, bedrock, clarion call, synergy
@@ -30,6 +30,12 @@ meticulously, seamlessly, notably, profoundly, intricately, tirelessly, indelibl
 - "etched in"
 - "poised to"
 - "grappling with"
+- "a testament to"
+- "spearhead [initiative/effort]"
+- "foster a culture of"
+- "harness the power of"
+- "embark on a journey"
+- "delve into the world of"
 
 ---
 
@@ -37,7 +43,7 @@ meticulously, seamlessly, notably, profoundly, intricately, tirelessly, indelibl
 
 Flagged across 2 detection sources. Not instant flags but suspicious in density.
 
-elevate/elevated, proactive, dynamic, agile, nuanced, intersection, supercharge, enhanced, powerful, intuitive, tailored, aligned/align, essential, enable, distinct, strategic, showcasing, impacting, surpassing, modern, scalable, game-changer, future-proof, crucial, optimize, unlock, unleash, revolutionize, thrilled, furthermore, moreover, paradigm, holistic, utilize, facilitate, illuminate, encompasses, subsequently, accordingly, notably, significantly, consequently
+elevate/elevated, proactive, dynamic, agile, nuanced, intersection, supercharge, enhanced, powerful, intuitive, tailored, aligned/align, essential, enable, distinct, strategic, showcasing, impacting, surpassing, modern, scalable, game-changer, future-proof, crucial, optimize, revolutionize, thrilled, furthermore, moreover, paradigm, holistic, utilize, facilitate, encompasses, subsequently, accordingly, notably, significantly, consequently
 
 ---
 
@@ -51,7 +57,7 @@ key, important, significant, compelling, profound, crucial, robust, effective, h
 
 ## Safe alternatives
 
-Instead of Tier 1/2 words, use plain language:
+Use plain language instead of Tier 1/2 words:
 
 | AI word | Human alternative |
 |---------|------------------|
@@ -86,3 +92,15 @@ Instead of Tier 1/2 words, use plain language:
 | cornerstone | foundation, base, core |
 | testament | proof, sign, evidence |
 | beacon | example, model, guide |
+| paramount | most important, critical, essential |
+| holistic | whole, complete, all-around |
+| ubiquitous | everywhere, common, widespread |
+| unprecedented | never before, first-ever, new |
+| transcend | go beyond, surpass, exceed |
+| unravel | figure out, solve, untangle |
+| reimagine | rethink, redesign, rebuild |
+| unleash | release, set free, use fully |
+| unlock | open up, access, enable |
+| synergy | teamwork, collaboration, working together |
+| linchpin | key part, core piece, anchor |
+| clarion call | signal, call to action, warning |

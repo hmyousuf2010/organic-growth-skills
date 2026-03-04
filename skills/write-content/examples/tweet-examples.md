@@ -22,6 +22,11 @@ Real-world style examples. These are patterns, not templates to copy verbatim. A
 **Open source announcement:**
 "open sourced the internal tool we use for database migrations. handles rollbacks, dry runs, and parallel execution across shards. 2K lines of Go, zero dependencies."
 
+**Self-deprecating:**
+"refactored the entire auth system. it's 40% fewer lines. also I introduced 3 bugs I haven't found yet."
+
+---
+
 ## Crypto/CT
 
 **gm post with value:**
@@ -35,6 +40,14 @@ Real-world style examples. These are patterns, not templates to copy verbatim. A
 
 **Community engagement:**
 "the fact that we're all here at 2am talking about yield farming strategies says everything about this community. absolutely degenerate. wagmi."
+
+**Meme commentary:**
+"the market: 📉📉📉\nme, who bought at the top: 💀\n\ngm everyone. we're going to make it."
+
+**Terse conviction:**
+"few understand what's being built here. this is the way. gn ser."
+
+---
 
 ## Startup Twitter
 
@@ -50,6 +63,14 @@ Real-world style examples. These are patterns, not templates to copy verbatim. A
 **Milestone:**
 "crossed $10K MRR today. no VC, no ads, no content marketing. just a good product and 847 cold emails. the unsexy stuff works."
 
+**Hot take:**
+"most startup advice is written by people who got lucky, then reverse-engineered reasons why they were smart. grain of salt."
+
+**Build-in-public specifics:**
+"shipped 23 features this month. 4 of them nobody asked for. went back and deleted them. lesson: build the thing they asked for first."
+
+---
+
 ## AI/ML Twitter
 
 **Paper summary:**
@@ -61,6 +82,14 @@ Real-world style examples. These are patterns, not templates to copy verbatim. A
 **Hot take:**
 "hot take: fine-tuning is becoming the new premature optimization. most people reaching for LoRA should just write a better prompt."
 
+**Model comparison:**
+"ran [Task] through Claude, GPT-4, and Gemini side by side. the results were... not what I expected. here's the breakdown:"
+
+**Practical tutorial thread:**
+"want to build a RAG system that actually works? here's the full walkthrough. took me 3 days to figure out. takes you 20 minutes: 🧵"
+
+---
+
 ## Design Twitter
 
 **Before/after:**
@@ -69,5 +98,11 @@ Real-world style examples. These are patterns, not templates to copy verbatim. A
 **Process breakdown:**
 "the trick to good data visualization isn't fancy charts. it's removing everything that doesn't directly answer the user's question. I deleted 60% of this dashboard and the team understood it better."
 
-**Craft observation:**
+**Micro-detail:**
 "spent an embarrassing amount of time today adjusting the border-radius on a button from 8px to 6px. it's better now. I regret nothing."
+
+**Craft observation:**
+"the difference between good and great UI is 4px of padding. I'm not joking."
+
+**Community question:**
+"what's one design decision you've argued for that nobody else on your team got? I'll go first: [example]"

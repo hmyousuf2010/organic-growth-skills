@@ -10,7 +10,8 @@ Adapt writing voice to match the cultural context of the intended audience and p
 4. [Startup/Founder](#startupfounder)
 5. [South Asian English](#south-asian-english)
 6. [Academic/Professional](#academicprofessional)
-7. [Personality injection technique](#personality-injection)
+7. [AI/ML Twitter](#aiml-twitter)
+8. [Personality injection technique](#personality-injection)
 
 ---
 
@@ -39,7 +40,7 @@ High-energy, meme-heavy, tribal, urgent. Terse and ironic.
 
 **Core vocab:** gm, gn, wagmi, ngmi, ser, anon, fren, wen, LFG, DYOR, NFA, HODL, FOMO, FUD
 
-**Trading vocab:** diamond hands, paper hands, ape in, rekt, degen, alpha, cope/copium, rug/rug pull, ATH
+**Trading vocab:** diamond hands 💎🙌, paper hands, ape in, rekt, degen, alpha, cope/copium, rug/rug pull, ATH
 
 **Cultural phrases:**
 - "probably nothing" (meaning very significant)
@@ -48,11 +49,11 @@ High-energy, meme-heavy, tribal, urgent. Terse and ironic.
 - "wen moon" / "wen lambo"
 
 **Style rules:**
-- 1-2 word sentences common
+- 1–2 word sentences common
 - Heavy irony
 - Meme-driven references
 - Lowercase preferred
-- Emoji-heavy: fire, skull, eyes, salute, chart up/down
+- Emoji-heavy: 🔥💀👀🫡📈📉
 - .eth handles and NFT PFPs
 - GM/GN rituals
 - Alpha drops in numbered threads
@@ -71,9 +72,22 @@ Anti-formality as identity. Punctuation carries emotional weight.
 - Extended letters for emphasis: "sooooo good" / "nooooo" / "pleaseeee"
 - Abbreviations: tbh, ngl, fr, imo, idk, idc, istg, ong, wdym
 - Slang: slay, no cap, bussin, fire, mid, sus, bet, based, ratio'd, it's giving, living rent free, main character energy, understood the assignment, ate, devoured
-- Tone indicators: /s (sarcasm), /j (joking), /gen (genuine), /srs (serious)
-- Skull emoji = laughing (not death)
-- Crying emoji = laughing (not actually crying)
+
+**Tone indicators** (tag the end of ambiguous statements):
+- /s = sarcasm
+- /j = joking
+- /gen = genuine
+- /srs = serious
+- /pos = positive
+- /neg = negative
+- /lh = lighthearted
+
+**Emoji meanings that differ from adult interpretation:**
+- 😭 = laughing (not crying)
+- 💀 or 🪦 = died laughing
+- 🤡 = self-mockery ("I'm the clown")
+- 🙂 = passive aggressive
+- 😊 = unsettling/ironic
 
 **Example:** "ngl this is actually so good?? like i was not expecting that at all tbh"
 
@@ -88,7 +102,7 @@ Build-in-public energy. Vulnerability combined with hustle. Metrics everywhere.
 **Writing patterns:**
 - Short declarative sentences
 - Numbered lists
-- Story format: struggle then insight then success
+- Story format: struggle → insight → success
 - Heavy metrics: "$0 to $14K MRR in 6 months"
 - Aspirational framing
 - Humility-brags: "We almost died in Month 2. Here's what saved us."
@@ -125,7 +139,7 @@ Measured and hedged but still human. Not sterile.
 **Latin terms:** "et al.," "i.e.," "e.g.," "viz.," "inter alia"
 
 **Patterns:**
-- Deliberate passive voice: "It was observed that..." / "The data were analyzed..."
+- Deliberate passive voice: "It was observed that…" / "The data were analyzed…"
 - Longer complex sentences with multiple subordinate clauses
 - Citation-heavy
 - Humor is dry and understated
@@ -135,11 +149,33 @@ Measured and hedged but still human. Not sterile.
 
 ---
 
+## AI/ML Twitter
+
+Bridges deep technical knowledge with accessible energy. Paper-drop culture.
+
+**What performs well:**
+- Paper summaries with accessible TL;DRs
+- Demo videos of new capabilities
+- Benchmark comparisons and analysis
+- Hot takes on model releases ("just dropped" energy)
+- Tutorial threads on using new models
+- Comparison threads (Model A vs B for task X)
+
+**Writing style:** Mix of technical depth and casual energy. Paper citations explained plainly. Demo-first approach. Acknowledges complexity without being gatekeeping.
+
+**Vocabulary:** "SOTA," "fine-tuning," "inference," "context window," "RAG," "LoRA," "hallucination," "alignment," "eval," "benchmark," "token budget," "prompt engineering," "system prompt"
+
+**Example:** "New paper from DeepMind. They achieved SOTA on [benchmark] by [method]. The key insight: [one-liner]."
+
+**What to avoid:** "this changes EVERYTHING" hype without substance. Either too academic (impenetrable) or too hype-driven. What's underserved: practical insights on using AI tools effectively day-to-day.
+
+---
+
 ## Personality injection
 
 When writing for a specific persona, calibrate these dimensions:
 
-**Voice dimensions (scale 1-10):**
+**Voice dimensions (scale 1–10):**
 - Formality
 - Humor
 - Directness
