@@ -6,17 +6,17 @@ allowed-tools: Read Grep Glob WebSearch WebFetch
 
 # Write Content
 
-Create platform-optimized content that sounds genuinely human. This skill applies all write-like-human rules automatically — every output passes through the full AI pattern detection and human writing checklist.
+Create platform-optimized content that sounds genuinely human. This skill applies all write-like-human rules automatically - every output passes through the full AI pattern detection and human writing checklist.
 
 Before writing, always read the write-like-human skill's [ai-patterns-database.md](../write-like-human/references/ai-patterns-database.md) and [word-tiers.md](../write-like-human/references/word-tiers.md) to refresh the avoidance rules.
 
 ## Step 1: Gather context
 
 ### Always ask:
-1. **Content type** — tweet, thread, reply, quote tweet, README, bio, blog post, email?
-2. **Topic** — what's the subject?
-3. **Who are you?** — background, role, expertise (if not already known)
-4. **Goal** — engagement, announcement, education, growth, hiring, selling?
+1. **Content type** - tweet, thread, reply, quote tweet, README, bio, blog post, email?
+2. **Topic** - what's the subject?
+3. **Who are you?** - background, role, expertise (if not already known)
+4. **Goal** - engagement, announcement, education, growth, hiring, selling?
 
 ### For Twitter content, also ask:
 - Short, medium, or long tweet?
@@ -36,7 +36,7 @@ Before writing, always read the write-like-human skill's [ai-patterns-database.m
 - Target audience? (devs, end users, both)
 
 ### For bio content, also ask:
-- Which platform? (character limits vary — see [bio-formulas.md](references/bio-formulas.md))
+- Which platform? (character limits vary - see [bio-formulas.md](references/bio-formulas.md))
 - Professional or personality-forward?
 - Key things to communicate (role, project, passion, CTA)
 - Reference bios you like?
@@ -52,9 +52,9 @@ Read [tweet-templates.md](references/tweet-templates.md) for the 25 proven viral
 **Single tweets:**
 
 Pick the template that fits the content type. Generate 3 variations:
-- **Option A** (recommended) — your best shot
-- **Option B** (alternative angle) — different approach
-- **Option C** (bold/risky) — more provocative take
+- **Option A** (recommended) - your best shot
+- **Option B** (alternative angle) - different approach
+- **Option C** (bold/risky) - more provocative take
 
 For each, note the expected engagement type: likes, replies, bookmarks, or retweets.
 
@@ -71,12 +71,12 @@ Count characters precisely. Emojis = 2 chars. Links = 23 chars always.
 Read [thread-structures.md](references/thread-structures.md) for architecture.
 
 Structure:
-1. Hook tweet — self-contained, creates curiosity gap. Must work even if nobody reads the thread.
-2. Context/stakes — why should anyone care?
-3-8. Body — one insight per tweet. End each with an open loop.
-4. Key takeaway — punchy lesson.
-5. Soft CTA — question to drive replies.
-6. Hard CTA — follow, RT first tweet, or link (in reply).
+1. Hook tweet - self-contained, creates curiosity gap. Must work even if nobody reads the thread.
+2. Context/stakes - why should anyone care?
+3-8. Body - one insight per tweet. End each with an open loop.
+4. Key takeaway - punchy lesson.
+5. Soft CTA - question to drive replies.
+6. Hard CTA - follow, RT first tweet, or link (in reply).
 
 Sweet spot is 5-10 tweets (7 is ideal). Under 5, make it a single tweet. Over 15, expect significant drop-off.
 
@@ -86,7 +86,7 @@ Suggest visual breaks every 3-4 tweets (+45% completion rate).
 
 **Replies:**
 
-Not "great point!" — add genuine value:
+Not "great point!" - add genuine value:
 - Share your experience with the topic
 - Add data or a specific example
 - Ask a sharp follow-up question
@@ -128,17 +128,17 @@ See [tweet-examples.md](examples/tweet-examples.md) for examples by sector.
 Read [readme-templates.md](references/readme-templates.md) for structure guides.
 
 **Project README structure:**
-1. Project name + one-line value proposition (not buzzwords — plain language)
-2. Badges — CI, version, license, downloads (4-6 max, one row)
-3. Hero visual — screenshot, GIF, or architecture diagram
-4. "Why [Project]?" — the problem it solves (not "revolutionizing" anything)
-5. Quick Start — under 60 seconds, copy-paste commands
-6. Key Features — bullet points, specific, measurable where possible
-7. Usage examples — real code, not pseudo-code
-8. Installation — step-by-step
-9. Configuration — if applicable
-10. Contributing — welcoming tone
-11. License — one line
+1. Project name + one-line value proposition (not buzzwords - plain language)
+2. Badges - CI, version, license, downloads (4-6 max, one row)
+3. Hero visual - screenshot, GIF, or architecture diagram
+4. "Why [Project]?" - the problem it solves (not "revolutionizing" anything)
+5. Quick Start - under 60 seconds, copy-paste commands
+6. Key Features - bullet points, specific, measurable where possible
+7. Usage examples - real code, not pseudo-code
+8. Installation - step-by-step
+9. Configuration - if applicable
+10. Contributing - welcoming tone
+11. License - one line
 
 Write in a human voice. The README should have personality while being informative. No corporate speak.
 
@@ -146,7 +146,7 @@ Write in a human voice. The README should have personality while being informati
 - Opening: who you are, what you care about
 - Current focus: "building [X]" or "exploring [Y]"
 - Tech stack badges (shields.io)
-- GitHub stats (optional — only if impressive)
+- GitHub stats (optional - only if impressive)
 - Social links
 - Creative element: ASCII art, code-formatted bio, custom banner
 
@@ -192,9 +192,9 @@ If any check fails, rewrite before delivering.
 
 For every content request, provide:
 
-1. **The content** — 3 variations (recommended, alternative, bold)
-2. **Analysis** — why you chose the format, expected engagement type
-3. **Post-publish strategy** — what to do after posting
+1. **The content** - 3 variations (recommended, alternative, bold)
+2. **Analysis** - why you chose the format, expected engagement type
+3. **Post-publish strategy** - what to do after posting
 
 For Twitter specifically:
 - Best time to post (based on audience timezone)

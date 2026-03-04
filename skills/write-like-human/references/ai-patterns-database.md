@@ -15,15 +15,15 @@ Complete database of patterns that AI detection tools flag. Organized by detecti
 
 ### Very high detection signal
 
-**Em dash overuse:** AI uses em dashes 2–5x more than human baseline (2.5–2.75 per 1000 words in human writing). GPT-4o uses roughly 10x more than GPT-3.5. Used formulaically: "it's not X — it's Y." Keep to max 1 per 500 words.
+**Em dash overuse:** AI uses em dashes 2–5x more than human baseline (2.5–2.75 per 1000 words in human writing). GPT-4o uses roughly 10x more than GPT-3.5. Used formulaically: "it's not X - it's Y." Keep to max 1 per 500 words.
 
-**Uniform sentence length:** AI defaults to roughly 15-word sentences with low standard deviation. Human writing has high variance — mixing 3-word punches with 40-word complex sentences.
+**Uniform sentence length:** AI defaults to roughly 15-word sentences with low standard deviation. Human writing has high variance - mixing 3-word punches with 40-word complex sentences.
 
-**Low burstiness:** Consistent rhythm with no variation between short punchy sentences and long complex ones. Human burstiness (structured text): mean 83–95 (SD 17–38). AI burstiness: mean 64–70 (SD 8–31). For unstructured text the gap is massive — human mean 271 vs AI mean 25.
+**Low burstiness:** Consistent rhythm with no variation between short punchy sentences and long complex ones. Human burstiness (structured text): mean 83–95 (SD 17–38). AI burstiness: mean 64–70 (SD 8–31). For unstructured text the gap is massive - human mean 271 vs AI mean 25.
 
-**Parallel negation:** "It's not just X, it's Y" / "Not only X, but also Y" / "X isn't just about Y — it's about Z." The single most prominent AI tell per Wikipedia editors.
+**Parallel negation:** "It's not just X, it's Y" / "Not only X, but also Y" / "X isn't just about Y - it's about Z." The single most prominent AI tell per Wikipedia editors.
 
-**Bolded bullet headers:** "**Scalability**: The system is designed to..." — virtually nonexistent in human writing but AI does this constantly.
+**Bolded bullet headers:** "**Scalability**: The system is designed to..." - virtually nonexistent in human writing but AI does this constantly.
 
 ### High detection signal
 
@@ -144,8 +144,8 @@ The single most prominent AI tell per Wikipedia editors:
 
 - "It's not just X, it's Y"
 - "Not only X, but also Y"
-- "It's not X — it's Y"
-- "X isn't just about Y — it's about Z"
+- "It's not X - it's Y"
+- "X isn't just about Y - it's about Z"
 - "X doesn't [verb]; it [verb]s"
 - "This isn't a retreat from X; it's an evolution"
 - "X is more than just Y. It's Z."
@@ -229,7 +229,7 @@ Instead use: Anyway, So yeah, The thing is, Point being, That said, Look, OK so,
 | Nominalizations | Normal baseline | 1.5–2x human rate |
 | Voice variation | Baseline | 23% less variation than human |
 | Sentence length variance | High (Fano factor high) | Low (Fano factor low) |
-| Contraction rate | High in casual writing | Low — defaults to formal |
+| Contraction rate | High in casual writing | Low - defaults to formal |
 | Active/passive ratio target | ~65% active / 35% passive | ~95% active / 5% passive |
 
 ---

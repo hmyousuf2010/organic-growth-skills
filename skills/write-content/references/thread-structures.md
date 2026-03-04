@@ -7,13 +7,13 @@
 ## Architecture template
 
 ```
-1. BIG BOLD HOOK — stop the scroll
+1. BIG BOLD HOOK - stop the scroll
 2. Set the stage / context
 3. Raise stakes / twist the knife
-4–9. Unfold insights — one idea per tweet
+4–9. Unfold insights - one idea per tweet
 10. Punchy lesson / key takeaway
-11. Soft CTA — question or reflection
-12. Final CTA — follow, RT, or link
+11. Soft CTA - question or reflection
+12. Final CTA - follow, RT, or link
 ```
 
 ## Hook tweet anatomy
@@ -21,9 +21,9 @@
 The hook is everything. If it fails, the thread dies regardless of quality.
 
 Three-part structure:
-1. **Smack** — Bold claim, opportunity, or challenge
-2. **Twist the knife** — Supporting point amplifying urgency
-3. **Tease the solution** — Promise what the thread delivers
+1. **Smack** - Bold claim, opportunity, or challenge
+2. **Twist the knife** - Supporting point amplifying urgency
+3. **Tease the solution** - Promise what the thread delivers
 
 ### 8 hook types
 
@@ -67,6 +67,6 @@ Add a visual element (screenshot, code snippet, diagram, chart, or even an emoji
 - Each tweet should make sense on its own (people screenshot individual tweets)
 - One idea per tweet, not two
 - Number your tweets (1/, 2/, etc.)
-- Don't waste the first few words — they're visible in the timeline preview
+- Don't waste the first few words - they're visible in the timeline preview
 - Vary tweet length within the thread
 - Don't start every tweet the same way

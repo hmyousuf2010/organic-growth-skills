@@ -18,7 +18,7 @@ Challenge something everyone believes. The stronger the disagreement, the more r
 "React is holding the web back."
 
 ### 3. Number/stat
-Lead with a surprising, specific data point. Specificity is what makes it hook — "99%" is better than "most."
+Lead with a surprising, specific data point. Specificity is what makes it hook - "99%" is better than "most."
 
 "99% of business books are 1 idea stretched across 300 pages."
 "I analyzed 10,000 tweets. Only 3% had external links. Here's why."
@@ -36,7 +36,7 @@ Expose a knowledge gap the reader wants filled. Rhetorical or direct.
 "What's the one thing every successful founder does that nobody talks about?"
 
 ### 6. Bold claim
-Make a statement so strong that people have to respond — either to agree passionately or to argue.
+Make a statement so strong that people have to respond - either to agree passionately or to argue.
 
 "Everything you've been told about building an audience is wrong."
 "The best code is the code you don't write."
@@ -48,7 +48,7 @@ Establish authority first, then promise specific value. The credibility makes th
 "I've hired 200+ engineers. Here's the one question that predicts success:"
 
 ### 8. Audience call-out
-Name the exact audience in the first line. If they identify, they read. Everyone else scrolls — but that's fine because you get concentrated engagement from your target.
+Name the exact audience in the first line. If they identify, they read. Everyone else scrolls - but that's fine because you get concentrated engagement from your target.
 
 "If you're a developer with under 1K followers, read this:"
 "Startup founders: If you're still doing your own bookkeeping, stop."

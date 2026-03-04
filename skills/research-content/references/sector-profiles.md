@@ -66,7 +66,7 @@ Audience profiles and content patterns for key sectors on Twitter/X and GitHub.
 
 **Example:** "Month 6: $8K MRR to $14K MRR. What changed? We stopped building features nobody asked for."
 
-**Content gaps:** Too many founders share generic "10 lessons" threads. What works is specificity — actual numbers, actual mistakes, actual pivots with reasoning.
+**Content gaps:** Too many founders share generic "10 lessons" threads. What works is specificity - actual numbers, actual mistakes, actual pivots with reasoning.
 
 ---
 
@@ -108,7 +108,7 @@ Audience profiles and content patterns for key sectors on Twitter/X and GitHub.
 
 **Example:** "The difference between good and great UI is 4px of padding. I'm not joking."
 
-**Content gaps:** Most design content is portfolio-style showcase. What's underserved is the thinking behind decisions — why this layout, why this color, why this interaction pattern.
+**Content gaps:** Most design content is portfolio-style showcase. What's underserved is the thinking behind decisions - why this layout, why this color, why this interaction pattern.
 
 ---
 

@@ -51,7 +51,7 @@ With logo: `https://img.shields.io/badge/<TEXT>-<HEX>?style=for-the-badge&logo=<
 
 Styles: flat (default), flat-square, plastic, social, for-the-badge
 
-Colors: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, success, important, critical, informational, inactive — or any hex code without the #.
+Colors: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, success, important, critical, informational, inactive - or any hex code without the #.
 
 Logo names come from simpleicons.org.
 

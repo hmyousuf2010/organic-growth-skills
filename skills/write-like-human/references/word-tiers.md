@@ -2,7 +2,7 @@
 
 Words organized by detection risk. Based on GPTZero's 3.3M-document corpus analysis, Wikipedia editor findings, and multiple detection tool databases.
 
-## Tier 1 — Never use
+## Tier 1 - Never use
 
 These words appear 10x–269x more frequently in AI text than human text. Using any is a strong AI signal.
 
@@ -39,7 +39,7 @@ meticulously, seamlessly, notably, profoundly, intricately, tirelessly, indelibl
 
 ---
 
-## Tier 2 — Use sparingly (max once per 1000 words)
+## Tier 2 - Use sparingly (max once per 1000 words)
 
 Flagged across 2 detection sources. Not instant flags but suspicious in density.
 
@@ -47,7 +47,7 @@ elevate/elevated, proactive, dynamic, agile, nuanced, intersection, supercharge,
 
 ---
 
-## Tier 3 — Watch density (max 2 per 1000 words)
+## Tier 3 - Watch density (max 2 per 1000 words)
 
 Common English words AI overuses. Not inherently AI but suspicious in clusters.
 

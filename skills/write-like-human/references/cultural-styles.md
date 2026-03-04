@@ -26,7 +26,7 @@ Mix of technical precision with extremely casual language. Anti-corporate. Self-
 - Self-deprecating humor: "I've been debugging this for 6 hours. It was a missing semicolon."
 - Understatement: "Minor issue: the database is on fire."
 - Use of "TL;DR" to summarize
-- Direct and concise — don't waste words
+- Direct and concise - don't waste words
 - Hot takes on tools and frameworks welcome
 - Debugging war stories are cultural currency
 

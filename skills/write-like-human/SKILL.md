@@ -1,6 +1,6 @@
 ---
 name: write-like-human
-description: Transform AI-generated text into authentic human writing or write new content indistinguishable from human writing. Use this skill whenever the user asks to write, rewrite, humanize, or edit ANY text content — tweets, emails, bios, READMEs, blog posts, documentation, copy, or any written output. Also use when the user mentions AI detection, humanizing text, making text sound natural, or avoiding AI patterns.
+description: Transform AI-generated text into authentic human writing or write new content indistinguishable from human writing. Use this skill whenever the user asks to write, rewrite, humanize, or edit ANY text content - tweets, emails, bios, READMEs, blog posts, documentation, copy, or any written output. Also use when the user mentions AI detection, humanizing text, making text sound natural, or avoiding AI patterns.
 allowed-tools: Read Grep Glob
 ---
 
@@ -12,13 +12,13 @@ This skill produces writing that reads as genuinely human by avoiding known AI p
 
 Before producing a single word, understand who you're writing for. Ask the user:
 
-1. **Audience** — developers, crypto community, investors, general public, academics?
-2. **Platform** — Twitter, GitHub, LinkedIn, blog, email, docs?
-3. **Persona** — who is the "writer"? Founder, engineer, student, thought leader?
-4. **Tone** — casual, professional, witty, serious, vulnerable, authoritative?
-5. **Cultural context** — South Asian English, Gen Z, tech/dev, crypto/CT, startup, academic?
-6. **Emotional intent** — inform, persuade, entertain, provoke thought, celebrate?
-7. **Reference samples** — any existing writing to match style?
+1. **Audience** - developers, crypto community, investors, general public, academics?
+2. **Platform** - Twitter, GitHub, LinkedIn, blog, email, docs?
+3. **Persona** - who is the "writer"? Founder, engineer, student, thought leader?
+4. **Tone** - casual, professional, witty, serious, vulnerable, authoritative?
+5. **Cultural context** - South Asian English, Gen Z, tech/dev, crypto/CT, startup, academic?
+6. **Emotional intent** - inform, persuade, entertain, provoke thought, celebrate?
+7. **Reference samples** - any existing writing to match style?
 
 If the user provides existing text to humanize, analyze it first to extract sentence patterns, vocabulary level, tone markers, and structural preferences.
 
@@ -26,7 +26,7 @@ Skip questions you can confidently infer from context. Don't ask all 7 if the us
 
 ## Step 2: Write with human patterns
 
-These patterns make writing feel genuinely human. They're not tricks — they're how people actually write.
+These patterns make writing feel genuinely human. They're not tricks - they're how people actually write.
 
 ### Sentence rhythm (burstiness)
 
@@ -38,7 +38,7 @@ AI writes metronomic 15-word sentences. That's the single biggest tell.
 
 ### Contractions
 
-Use them liberally — don't, won't, can't, it's, I'm, they're, we've, shouldn't, couldn't, that's, there's, here's, who's. Aim for 60-80% of eligible spots. AI defaults to formal "it is," "do not," "cannot" and that sounds robotic.
+Use them liberally - don't, won't, can't, it's, I'm, they're, we've, shouldn't, couldn't, that's, there's, here's, who's. Aim for 60-80% of eligible spots. AI defaults to formal "it is," "do not," "cannot" and that sounds robotic.
 
 ### Sentence starters
 
@@ -70,7 +70,7 @@ Sprinkle them in. "You know what I mean?" "How hard can it be?" "Why would anyon
 
 ### Self-corrections
 
-"It took about three hours — actually, more like four." Shows thinking in real time.
+"It took about three hours - actually, more like four." Shows thinking in real time.
 
 ### Opinions
 
@@ -82,11 +82,11 @@ Read [ai-patterns-database.md](references/ai-patterns-database.md) for the compl
 
 ### Never use Tier 1 words
 
-Words like "delve," "tapestry," "vibrant," "meticulous," "embark," "robust," "seamless," "groundbreaking," "leverage," "multifaceted," "cornerstone," "spearhead," "testament," "beacon" — these appear 10-269x more in AI text. Using any one is a strong AI signal. See the full list in [word-tiers.md](references/word-tiers.md).
+Words like "delve," "tapestry," "vibrant," "meticulous," "embark," "robust," "seamless," "groundbreaking," "leverage," "multifaceted," "cornerstone," "spearhead," "testament," "beacon" - these appear 10-269x more in AI text. Using any one is a strong AI signal. See the full list in [word-tiers.md](references/word-tiers.md).
 
 ### Never use banned phrases
 
-"In today's fast-paced world," "Let's dive in," "It's not just X, it's Y," "Unlock the power of," "Game-changer," "Stay ahead of the curve" — over 100 phrases that are instant AI flags. Full list in the reference file.
+"In today's fast-paced world," "Let's dive in," "It's not just X, it's Y," "Unlock the power of," "Game-changer," "Stay ahead of the curve" - over 100 phrases that are instant AI flags. Full list in the reference file.
 
 ### Structural tells to avoid
 

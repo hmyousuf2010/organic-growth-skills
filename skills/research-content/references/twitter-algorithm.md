@@ -49,14 +49,14 @@ From X's open-sourced algorithm code (March 2023, confirmed in January 2026 xAI 
 
 ## TweepCred and Premium
 
-**TweepCred:** Hidden 0–100 reputation score. **Critical threshold: 65.** If your score drops below 0.65, only 3 of your tweets are considered for algorithmic distribution — effectively ghosted.
+**TweepCred:** Hidden 0–100 reputation score. **Critical threshold: 65.** If your score drops below 0.65, only 3 of your tweets are considered for algorithmic distribution - effectively ghosted.
 
 **Premium advantages:**
 - Premium ($8/mo): Blue checkmark, 4x in-network boost, 2x out-of-network boost, priority replies
 - Premium+ ($40/mo): All above + no ads, 100K char articles, highest priority
 - Buffer study (18.8M posts): Premium = roughly **10x more reach per post** vs free accounts
 
-Only about **0.26% of users subscribe** — creating a massive competitive advantage for Premium subscribers.
+Only about **0.26% of users subscribe** - creating a massive competitive advantage for Premium subscribers.
 
 ---
 
@@ -69,7 +69,7 @@ Links are actively penalized:
 - Multiple links in one post: −70%
 - Shortened URLs: additional −10%
 
-**Best strategy — link in reply:**
+**Best strategy - link in reply:**
 Post valuable native content as main tweet (zero penalty). Add link in first reply immediately after. Result: **270% bump in views, 486% bump in likes** vs putting the link in the main tweet.
 
 Other strategies:
@@ -86,7 +86,7 @@ Other strategies:
 
 **Time decay:** Tweet loses roughly 50% of visibility score every 6 hours. After 24 hours, minimal algorithmic push.
 
-**What this means:** Engage with replies immediately after posting. Spend 15 minutes replying to every comment — triggers the 150x reply-to-reply multiplier and signals to the algorithm that the tweet generates conversation.
+**What this means:** Engage with replies immediately after posting. Spend 15 minutes replying to every comment - triggers the 150x reply-to-reply multiplier and signals to the algorithm that the tweet generates conversation.
 
 ---
 
@@ -104,7 +104,7 @@ Spend 10–15 minutes engaging before posting your own content. This warms up yo
 
 | Kill signal | Impact |
 |-------------|--------|
-| 3+ hashtags | −40% penalty. 1–2 relevant hashtags = +21%. Zero is fine — Grok reads semantically. |
+| 3+ hashtags | −40% penalty. 1–2 relevant hashtags = +21%. Zero is fine - Grok reads semantically. |
 | All-caps text | Major penalization |
 | Offensive/combative tone | −80% reach via Grok sentiment |
 | Unknown words/misspellings | 95% penalty (0.01 weight for "unknown language") |
@@ -128,7 +128,7 @@ Best practices:
 - Add genuine value: 3+ sentences, unique perspective
 - Reply within first 2 hours of viral tweets
 - Spend 10–15 minutes engaging before posting your own content
-- After posting, dedicate 15 minutes to reply to every comment — triggers the 150x multiplier
+- After posting, dedicate 15 minutes to reply to every comment - triggers the 150x multiplier
 
 **What makes a good reply:** Not "great point!" but a substantive addition. Share your experience, add data, ask a sharp follow-up question, respectfully disagree with reasoning.
 
