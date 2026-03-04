@@ -6,9 +6,9 @@ Three interconnected skills for researching, writing, and publishing content on 
 
 This isn't a prompt template collection. It's a complete writing system with 500+ flagged words in 3 severity tiers, 200+ banned phrases mapped to their AI frequency multipliers, 25 proven content formats with engagement data, and cultural adaptation profiles for 8 distinct writing communities.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/Claude_Code-Skills-blueviolet)](https://claude.com/claude-code)
-[![Platform](https://img.shields.io/badge/Platform-Claude_Code-orange)](https://claude.com/claude-code)
+[![License: MIT](https://img.shields.io/badge/License-MIT-CC785C?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Skills-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Skills](https://img.shields.io/badge/npx_skills-install-191919?style=for-the-badge&logo=anthropic&logoColor=CC785C)](https://skills.sh)
 
 ---
 
@@ -216,19 +216,27 @@ Each template includes format structure, when to use it, expected engagement typ
 
 ## Quick start
 
-### Installation
+### Install
+
+**Option 1: via `npx skills` (recommended)**
 
 ```bash
-# Install via npx skills
 npx skills add hmyousuf2010/organic-growth-skills
+```
 
-# Or clone and copy manually
+This installs to `~/.claude/skills/` automatically. Works for all your Claude Code projects.
+
+**Option 2: project-level only**
+
+```bash
 git clone https://github.com/hmyousuf2010/organic-growth-skills.git /tmp/ogs
-
-# Project-level (this repo only)
 cp -r /tmp/ogs/skills/* .claude/skills/
+```
 
-# Personal (all your projects)
+**Option 3: global install manually**
+
+```bash
+git clone https://github.com/hmyousuf2010/organic-growth-skills.git /tmp/ogs
 cp -r /tmp/ogs/skills/* ~/.claude/skills/
 ```
 
